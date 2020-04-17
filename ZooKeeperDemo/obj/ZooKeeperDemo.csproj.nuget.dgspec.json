@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\wangxw\\source\\demo\\ZooKeeperDemo\\ZooKeeperDemo.csproj": {}
+  },
+  "projects": {
+    "D:\\wangxw\\source\\demo\\ZooKeeperDemo\\ZooKeeperDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\wangxw\\source\\demo\\ZooKeeperDemo\\ZooKeeperDemo.csproj",
+        "projectName": "ZooKeeperDemo",
+        "projectPath": "D:\\wangxw\\source\\demo\\ZooKeeperDemo\\ZooKeeperDemo.csproj",
+        "packagesPath": "C:\\Users\\yalla215\\.nuget\\packages\\",
+        "outputPath": "D:\\wangxw\\source\\demo\\ZooKeeperDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yalla215\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ZooKeeperNetEx": {
+              "target": "Package",
+              "version": "[3.4.12.4, )"
+            },
+            "ZooKeeperNetEx.Recipes": {
+              "target": "Package",
+              "version": "[3.4.12.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.exe
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.AssemblyInfoInputs.cache
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.AssemblyInfo.cs
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperNetEx.dll
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.csproj.CopyComplete
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperNetEx.Recipes.dll
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.deps.json
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.runtimeconfig.json
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.runtimeconfig.dev.json
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.dll
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperDemo.pdb
+D:\wangxw\source\demo\ZooKeeperDemo\bin\Debug\netcoreapp3.1\log4net.dll
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.csproj.CoreCompileInputs.cache
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.dll
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.pdb
+D:\wangxw\source\demo\ZooKeeperDemo\obj\Debug\netcoreapp3.1\ZooKeeperDemo.genruntimeconfig.cache
