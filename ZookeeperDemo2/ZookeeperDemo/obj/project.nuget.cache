@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qx8EWv733TGkQTh6QzMKF+V2wW54cHj+dp7KqBfEJ0jwb/HYnrv9h2Fb/hZM8IotoWXJEDKzJztsTX90e4/N7w==",
+  "success": true,
+  "projectFilePath": "D:\\汪晓伟\\demo\\ZookeeperDemo\\ZookeeperDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louyp\\.nuget\\packages\\zookeepernetex\\3.4.12.4\\zookeepernetex.3.4.12.4.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\zookeepernetex.recipes\\3.4.12.4\\zookeepernetex.recipes.3.4.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

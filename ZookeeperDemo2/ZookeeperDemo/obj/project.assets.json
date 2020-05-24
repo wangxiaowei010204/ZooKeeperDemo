@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZooKeeperNetEx/3.4.12.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ZooKeeperNetEx.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZooKeeperNetEx.dll": {}
+        }
+      },
+      "ZooKeeperNetEx.Recipes/3.4.12.4": {
+        "type": "package",
+        "dependencies": {
+          "ZooKeeperNetEx": "3.4.12.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/ZooKeeperNetEx.Recipes.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZooKeeperNetEx.Recipes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooKeeperNetEx/3.4.12.4": {
+      "sha512": "YECtByVSH7TRjQKplwOWiKyanCqYE5eEkGk5YtHJgsnbZ6+p1o0Gvs5RIsZLotiAVa6Niez1BJyKY/RDY/L6zg==",
+      "type": "package",
+      "path": "zookeepernetex/3.4.12.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ZooKeeperNetEx.png",
+        "lib/net461/ZooKeeperNetEx.dll",
+        "lib/net461/ZooKeeperNetEx.xml",
+        "lib/netstandard2.0/ZooKeeperNetEx.dll",
+        "lib/netstandard2.0/ZooKeeperNetEx.xml",
+        "zookeepernetex.3.4.12.4.nupkg.sha512",
+        "zookeepernetex.nuspec"
+      ]
+    },
+    "ZooKeeperNetEx.Recipes/3.4.12.4": {
+      "sha512": "nQuwsdVHgvPbvwYnjIisBNXM26NSiBAtnSGMaOhp0P30Btq1p+Zk+V50z2T24H+RR8h3sJhMwtNUn8zpcqdFvA==",
+      "type": "package",
+      "path": "zookeepernetex.recipes/3.4.12.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ZooKeeperNetEx.png",
+        "lib/net461/ZooKeeperNetEx.Recipes.dll",
+        "lib/net461/ZooKeeperNetEx.Recipes.xml",
+        "lib/netstandard2.0/ZooKeeperNetEx.Recipes.dll",
+        "lib/netstandard2.0/ZooKeeperNetEx.Recipes.xml",
+        "zookeepernetex.recipes.3.4.12.4.nupkg.sha512",
+        "zookeepernetex.recipes.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ZooKeeperNetEx >= 3.4.12.4",
+      "ZooKeeperNetEx.Recipes >= 3.4.12.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\louyp\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\汪晓伟\\demo\\ZookeeperDemo\\ZookeeperDemo.csproj",
+      "projectName": "ZookeeperDemo",
+      "projectPath": "D:\\汪晓伟\\demo\\ZookeeperDemo\\ZookeeperDemo.csproj",
+      "packagesPath": "C:\\Users\\louyp\\.nuget\\packages\\",
+      "outputPath": "D:\\汪晓伟\\demo\\ZookeeperDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\louyp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://zjdykj.51vip.biz:8090/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ZooKeeperNetEx": {
+            "target": "Package",
+            "version": "[3.4.12.4, )"
+          },
+          "ZooKeeperNetEx.Recipes": {
+            "target": "Package",
+            "version": "[3.4.12.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

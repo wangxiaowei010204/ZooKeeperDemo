@@ -1,0 +1,16 @@
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.exe
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.csprojAssemblyReference.cache
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.AssemblyInfoInputs.cache
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.AssemblyInfo.cs
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperNetEx.dll
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.csproj.CopyComplete
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.deps.json
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.runtimeconfig.json
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.runtimeconfig.dev.json
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.dll
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZookeeperDemo.pdb
+D:\汪晓伟\demo\ZookeeperDemo\bin\Debug\netcoreapp3.1\ZooKeeperNetEx.Recipes.dll
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.csproj.CoreCompileInputs.cache
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.dll
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.pdb
+D:\汪晓伟\demo\ZookeeperDemo\obj\Debug\netcoreapp3.1\ZookeeperDemo.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZookeeperDemo/1.0.0": {
+        "dependencies": {
+          "ZooKeeperNetEx": "3.4.12.4",
+          "ZooKeeperNetEx.Recipes": "3.4.12.4"
+        },
+        "runtime": {
+          "ZookeeperDemo.dll": {}
+        }
+      },
+      "ZooKeeperNetEx/3.4.12.4": {
+        "runtime": {
+          "lib/netstandard2.0/ZooKeeperNetEx.dll": {
+            "assemblyVersion": "3.4.12.4",
+            "fileVersion": "3.4.12.4"
+          }
+        }
+      },
+      "ZooKeeperNetEx.Recipes/3.4.12.4": {
+        "dependencies": {
+          "ZooKeeperNetEx": "3.4.12.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZooKeeperNetEx.Recipes.dll": {
+            "assemblyVersion": "3.4.12.4",
+            "fileVersion": "3.4.12.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZookeeperDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooKeeperNetEx/3.4.12.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YECtByVSH7TRjQKplwOWiKyanCqYE5eEkGk5YtHJgsnbZ6+p1o0Gvs5RIsZLotiAVa6Niez1BJyKY/RDY/L6zg==",
+      "path": "zookeepernetex/3.4.12.4",
+      "hashPath": "zookeepernetex.3.4.12.4.nupkg.sha512"
+    },
+    "ZooKeeperNetEx.Recipes/3.4.12.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nQuwsdVHgvPbvwYnjIisBNXM26NSiBAtnSGMaOhp0P30Btq1p+Zk+V50z2T24H+RR8h3sJhMwtNUn8zpcqdFvA==",
+      "path": "zookeepernetex.recipes/3.4.12.4",
+      "hashPath": "zookeepernetex.recipes.3.4.12.4.nupkg.sha512"
+    }
+  }
+}
